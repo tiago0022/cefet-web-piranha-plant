@@ -1,0 +1,65 @@
+h1 {
+    font-family: 'Times New Roman', serif;
+    color: limegreen;
+    font-size: 28px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    margin-left: 60px;
+    font-style: italic;
+    background-color: transparent;
+}
+
+#voce-sabia {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+}
+
+h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 22px;
+    color: limegreen
+}
+
+img {
+    width: 300px;
+    border: 8px solid limegreen;
+    border-radius: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+q {
+    font-style: italic;
+}
+
+table {
+    width: 600px;
+    text-align: center;
+    margin: 50px auto 50px auto;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: gray;
+    color: white;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
