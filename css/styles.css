@@ -28,6 +28,10 @@ blockquote {
     background-image: url(../imagens/fundo.png);
 }
 
+strong {
+    font-style: bold;
+}
+
 h2 {
     font-family: 'Times New Roman', serif;
     font-size: 22px;
